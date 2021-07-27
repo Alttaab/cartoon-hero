@@ -1,0 +1,117 @@
+body{
+	margin: 0;
+	background-color: LightGoldenrodYellow;
+}
+
+header{
+	background-color: darkred;
+	text-align: center;
+	padding: 30px;
+}
+
+h1, h2{
+	font-family: 'Fondamento', cursive;
+}
+
+header h1{
+	color: paleturquoise;
+	font-size: 50px;
+}
+
+header img{
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 25px;
+	color: darkred;
+	margin: 40px 0 0;
+}
+
+h3{
+	font-size: 15px;
+	font-weight: normal;
+	text-align: center;
+	color: #8a8a0f;
+
+}
+
+a{
+	color: darkred;
+}
+a:hover{
+	color: deeppink;
+}
+
+p, ul{
+	font-family: sans-serif;
+	font-size: 13px;
+}
+footer{
+	background-color: darkred;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer m{
+	margin: 0;
+
+}
+
+p.headerQuote{
+	font-family: serif;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: center;
+	color: #ff8080;
+	font-style: italic;
+	margin-top: 0;
+}
+
+p.caption{
+	font-family: serif;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: center;
+	color: #8a8a0f;
+	font-style: italic;
+	margin-top: 0;
+}
+
+
+
+
+
+h1{
+	font-size: 30px;
+	color: mediumaquamarine;
+}
+
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy;
+}
+
+h1 span {
+	color: violet;
+}
